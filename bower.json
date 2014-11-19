@@ -1,7 +1,7 @@
 {
   "name": "google-diff-match-patch",
-  "version": "0.1.0",
-  "homepage": "https://github.com/friedolinfoerder/google-diff-match-patch",
+  "version": "0.1.1",
+  "homepage": "https://github.com/civicevolution/google-diff-match-patch",
   "authors": [
     "Friedolin Förder"
   ],
